@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/app/src/main/cpp/librtmp
+/app/app.iml
+/飘心动画原理.png
+/app/src/main/cpp/x264-master
+/pusher/src/main/cpp/librtmp
+/pusher/src/main/cpp/x264-master
