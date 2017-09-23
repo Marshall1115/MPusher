@@ -11,10 +11,6 @@ import com.example.administrator.mpush.view.HeartSurfaceView;
 import com.example.pusher.config.PusherConfig;
 import com.example.pusher.pusher.PusherEngine;
 
-/***
- *http://lib.csdn.net/article/liveplay/61045
- * 参考这里的代码封装
- */
 public class MainActivity extends BaseActivity {
     private CameraView cv;
     private HeartSurfaceView heartView;
