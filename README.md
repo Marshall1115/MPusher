@@ -10,4 +10,4 @@
 
 应用截图：
 -------
-![](http://oa962v59g.bkt.clouddn.com/C360_2017-07-31-21-58-19-368.png)
+![](http://oa962v59g.bkt.clouddn.com/C360_2017-07-31-21-58-19-368-min.png)
